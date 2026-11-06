@@ -20,9 +20,9 @@ trained models are served through an interactive Streamlit app.
 - **Split:** stratified 80/20, `random_state=42`. The 20 % hold-out is `test_data.csv`.
 
 ## c. GitHub repository link
-<FILL: https://github.com/sathyapv92/creditcard-default-detection>
+<FILL: https://github.com/sathyapv92/Credit-Card-Default-Risk-Lab>
 
-Live app: <FILL: https://creditcard-default-detection.streamlit.app>
+Live app: <FILL: https://Credit-Card-Default-Risk-Lab.streamlit.app>
 
 ## d. Models used
 
