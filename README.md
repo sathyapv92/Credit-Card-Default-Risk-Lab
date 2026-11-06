@@ -26,8 +26,7 @@ trained models are served through an interactive Streamlit app.
 ## c. GitHub repository link
 https://github.com/sathyapv92/Credit-Card-Default-Risk-Lab
 
-Live app: <https://Credit-Card-Default-Risk-Lab.streamlit.app>
-
+Live app: https://sathyapv92-credit-card-default-risk-lab-app-odaors.streamlit.app
 ## d. Models used
 
 Metrics on the 20 % hold-out set (6,000 rows), produced by `train.py` and saved in `metrics.csv`:
